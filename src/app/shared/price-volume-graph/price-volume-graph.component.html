@@ -1,0 +1,15 @@
+<div class="col-md-12">
+	<label>Select stock: </label> 
+	  <select id="stock-selection" *ngIf="this.stockService.stocks.length" (change)="changeStockData($event)">
+	    <option *ngFor="let stock of this.stockService.stocks; let i = index" value='{{i}}'><a>{{stock.name}}</a>
+	    </option>
+	  </select>
+</div>
+<div class="col-md-12">
+	<div class="chart-container col-lg-6 col-sm-12">
+		<canvas #priceChart>{{priceChart}}</canvas>
+	</div>
+	<div class="chart-container col-lg-6 col-sm-12">
+		<canvas #volumeChart>{{volumeChart}}</canvas>
+	</div>
+</div>

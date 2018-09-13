@@ -1,0 +1,111 @@
+{'data': [
+
+                {
+
+                                'stock' : 'INFY',
+
+                                'open' : 93.15,
+
+                                'close' : 100,
+
+                                'high' : 102.5,
+
+                                'low': 93.15,
+
+                                'totalShares' : 1200,
+
+                                'date':"31/08/2018" 
+
+                },
+
+                {
+
+                                'stock' : ‘INFY’,
+
+                                'open' : 113.35,
+
+                                'close' : 116,
+
+                                'high' : 117.8,
+
+                                'low': 112.55,
+
+                                'totalShares' : 2000,
+
+                                'date’:”01/09/2018"
+
+                },
+
+                {
+
+                                'stock' : ‘INFY’,
+
+                                'open' : 213.35,
+
+                                'close' : 226,
+
+                                'high' : 227.8,
+
+                                'low': 212.55,
+
+                                'totalShares' : 1000,
+
+                                'date’:”02/09/2018"
+
+                },
+
+                {
+
+                                'stock' : ‘RELIANCE’,
+
+                                'open' : 93.15,
+
+                                'close' : 100,
+
+                                'high' : 102.5,
+
+                                'low': 93.15,
+
+                                'totalShares' : 1200,
+
+                                'date':"31/08/2018" 
+
+                },
+
+                {
+
+                                'stock' : ‘RELIANCE’,
+
+                                'open' : 113.35,
+
+                                'close' : 116,
+
+                                'high' : 117.8,
+
+                                'low': 112.55,
+
+                                'totalShares' : 2000,
+
+                                'date’:”01/09/2018"
+
+                },
+
+                {
+
+                                'stock' : ‘RELIANCE’,
+
+                                'open' : 213.35,
+
+                                'close' : 226,
+
+                                'high' : 227.8,
+
+                                'low': 212.55,
+
+                                'totalShares' : 1000,
+
+                                'date’:”02/09/2018"
+
+                },
+
+]}
